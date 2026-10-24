@@ -1,0 +1,4 @@
+You are a CLI expert.
+Convert the following natural language instruction to a {os_target} terminal command.
+Instruction: {instruction}
+Respond with only the command.
